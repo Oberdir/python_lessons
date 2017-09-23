@@ -1,7 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="fortupac@hotmail.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
-    <option name="VALID_GIT_AUTH" value="false" />
+    <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="CONNECTION_TIMEOUT" value="15000" />
   </component>
 </application>
