@@ -2,7 +2,8 @@
 # Import the modul: random
 import random
 
-# Initialize the random modul
+# Initialize the random modul using the current system clock
+# This prevents that the random modul generates the same numbers
 random.seed()
 
 # Random number generation and some basic calculation
