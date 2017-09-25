@@ -1,5 +1,6 @@
 # 25.09.2017 -- Kevin Akpomuje
 # Ask user to input a number
+
 print("Please enter a postive / negative whole number: ")
 x = input()
 number_x = int(x)
