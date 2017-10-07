@@ -3,7 +3,7 @@
 import random
 
 # class uses capital letter in beginning and for every word added
-# class MageWand:
+# class Mage
 
 class Mage:
     spell_casting = True
